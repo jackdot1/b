@@ -1,0 +1,8 @@
+1) eclipse= https://eclipseide.org/
+2)mathfile= https://downloads.apache.org/commons/math/binaries/
+3) cloudsim= https://code.google.com/archive/p/cloudsim/downloads
+
+4)google app engine= https://google-app-engine.en.uptodown.com/windows
+
+5) virtualbox= https://www.virtualbox.org/wiki/Downloads
+6)ubuntu= https://ubuntu.com/download/desktop
